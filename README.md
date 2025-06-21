@@ -13,5 +13,8 @@ From the link above, "AdventureWorksLT2019.bak" and "AdventureWorksLT2017.bak" d
 4.FactInternetSales.sql
 
 Query Editing Tool: "Microsoft SQL Server Management Studio"
+
 Visualization Tool: "Microsoft Power BI"
-DATA VISUALIZATION
+
+
+
